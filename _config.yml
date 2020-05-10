@@ -2,11 +2,11 @@
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
-# Set to https://<username>.github.io when hosting on GitHub Pages
+# Set to https://rizkyachmad.github.com/ when hosting on GitHub Pages
 # (unless you are using a custom domain).
-# url:                   https://<username>.github.io
+# url:                   https://rizkyachmad.github.com/
 
-# IMPORTANT: Set The "base URL" of your site.
+# IMPORTANT: Set The "base URL" https://rizkyachmad.github.com/
 # When your site sits in a subdirectory, set to /<name of directory>
 # (with leading /, but without the < >).
 # Use the empty string '' otherwise.
@@ -30,7 +30,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
+  "Welcome".
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
